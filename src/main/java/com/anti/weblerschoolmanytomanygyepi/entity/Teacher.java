@@ -1,6 +1,5 @@
 package com.anti.weblerschoolmanytomanygyepi.entity;
 
-import com.anti.weblerschoolmanytomanygyepi.entity.Course;
 import com.anti.weblerschoolmanytomanygyepi.entity.base.Person;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Entity;
