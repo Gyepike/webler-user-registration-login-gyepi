@@ -1,4 +1,4 @@
-package com.anti.webleruserregistrationlogingyepi.entity;
+package com.anti.weblerschoolmanytomanygyepi.entity;
 
 
 import jakarta.persistence.*;
@@ -16,7 +16,13 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
 
+    @NonNull
+    @Column(unique = true)
     private  String email;
 
+    @NonNull
+    private String username;
+
+    @NonNull
     private String password;
 }

@@ -1,13 +1,12 @@
-package com.anti.webleruserregistrationlogingyepi;
+package com.anti.weblerschoolmanytomanygyepi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WeblerUserRegistrationLoginGyepiApplication {
+public class WeblerUserSchoolManytoMany {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WeblerUserRegistrationLoginGyepiApplication.class, args);
+		SpringApplication.run(WeblerUserSchoolManytoMany.class, args);
 	}
-
 }

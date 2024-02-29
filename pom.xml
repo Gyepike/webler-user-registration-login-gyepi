@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.anti</groupId>
-	<artifactId>webler-user-registration-login-gyepi</artifactId>
+	<artifactId>webler-school-many-to-many-gyepi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webler-user-registration-login-gyepi</name>
 	<description>Demo project for Spring Boot</description>
